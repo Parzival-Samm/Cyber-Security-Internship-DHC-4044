@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Local Testing Tools
+sqlmap-dev/
+
+# System and Log Files
+*.log
+.DS_Store
